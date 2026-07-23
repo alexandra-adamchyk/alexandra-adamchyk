@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Aleksandra Adamchyk</h1>
+<h1 align="center">👋 Hi, I'm Oleksandra Adamchyk</h1>
 
 <p align="center">
 💻 <b>Full Stack Developer</b> | 🐍 <b>Python Backend Student</b> at DCI | 🎯 Passionate about <b>Web Applications & Clean Code</b>
